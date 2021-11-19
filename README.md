@@ -4,7 +4,9 @@
 
 ### Hola Amigos 🔭
 
-I'm a Hyderabad based Full Stack Developer. I am a full stack developer, have been working in software industry since past 7 years have transitioned between various technologies..
+I'm a Hyderabad based Full Stack Developer. I am a full stack developer, have been working in software industry since past 7 years have transitioned between various technologies.
+
+Check out my profile: https://www.kurtesy.in/
 
 
 <a href="https://github.com/kurtesy">
