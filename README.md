@@ -34,8 +34,12 @@ Check out my profile: https://www.kurtesy.in/
 #### Leetcode stats:
 [![LeetCode user kurtesy_](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fkurtesy_&logo=leetcode&logoColor=yellow)](https://leetcode.com/kurtesy_/)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kurtesy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 #### Contibutions:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kurtesy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kurtesy?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 #### Language stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtesy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
