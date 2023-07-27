@@ -2,6 +2,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nishant-patel-aa754151/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/kurtesy_)
 
+<img src="https://github.com/kurtesy/kurtesy/blob/main/kurtesy_logo.png" title="logo" alt="logo" width="140" height="140" style="{'align': 'center'}"/>&nbsp;
+
 ### Hola Amigos 🔭
 
 I'm a Hyderabad based Full Stack Developer. I am a full stack developer, have been working in software industry since past 7 years have transitioned between various technologies.
