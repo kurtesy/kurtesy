@@ -17,6 +17,8 @@ Check out my profile: https://www.kurtesy.in/
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kurtesy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Kurtesy's GitHub Stats" />
 </a>
 
+[![LeetCode user kurtesy_](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fkurtesy_&logo=leetcode&logoColor=yellow)](https://leetcode.com/kurtesy_/)
+
 <!--
 **kurtesy/kurtesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
