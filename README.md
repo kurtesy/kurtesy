@@ -6,7 +6,7 @@
 
 ### Hola Amigos 🔭
 
-I'm a Hyderabad based Full Stack Developer. I am a full stack developer, have been working in software industry since past 7 years have transitioned between various technologies.
+Seasoned Full Stack Developer | 10+ Years Crafting Innovative Solutions | Fluent in Python, JavaScript, & Pandas | Passionate about API Development | Thriving in Berlin's Tech Scene
 
 Check out my profile: https://www.kurtesy.in/
 
